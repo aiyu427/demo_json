@@ -1,7 +1,7 @@
 {
   "taloss_log": {
     "status": "success",
-    "code": "S000",
+    "code": "S001",
     "message": "正常終了しました",
     "result": "aaa"
   }
