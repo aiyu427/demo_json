@@ -1,8 +1,13 @@
 {
   "taloss_log": {
     "status": "success",
-    "code": "S001",
+    "code": "S000",
     "message": "正常終了しました",
-    "result": "aaa"
+    "result": {
+        "log_level": "DEBUG",
+        "date": "2024-07-09",
+        "time": "18:17:04.770114",
+        "detail": "[f456a696-37b6-478e-b132-d11316e13f4c]   Rendered invoice_commissions/_invoice_commissions.html.erb (264.7ms)"
+    }
   }
 }
