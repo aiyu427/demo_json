@@ -3,6 +3,7 @@
     "status": "success",
     "code": "S000",
     "message": "正常終了しました",
+    "ary": [1,2,3],
     "result": {
         "log_level": "DEBUG",
         "date": "2024-07-09",
